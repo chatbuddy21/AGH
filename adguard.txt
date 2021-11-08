@@ -18,7 +18,7 @@
 
 !OISD
 ||googlesyndication.com^
-||app-measurement.com^
+!||app-measurement.com^
 ||launches.appsflyer.com^
 ||skadsdk.appsflyer.com^
 ||inapps.appsflyer.com^
