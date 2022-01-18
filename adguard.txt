@@ -12,8 +12,9 @@
 ||cercube.com^
 ||weaveradrenaline.com^
 ||iqbroker.com^
-||sacredperpetratorbasketball.com
-||px-intl.ucweb.com
+||sacredperpetratorbasketball.com^
+||px-intl.ucweb.com^
+||swallowcrockerybless.com^
 
 !OISD
 ||metrics.roblox.com^
