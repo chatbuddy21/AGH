@@ -17,7 +17,6 @@
 ||swallowcrockerybless.com^
 
 !OISD
-||metrics.roblox.com^
 ||app.mktg.genesys.com^
 ||img04.en25.com^
 ||sdkconfig.ad.intl.xiaomi.com^
