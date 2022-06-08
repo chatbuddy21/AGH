@@ -15,6 +15,7 @@
 ||sacredperpetratorbasketball.com^
 ||px-intl.ucweb.com^
 ||swallowcrockerybless.com^
+||cawber.com^
 
 !OISD
 ||app.mktg.genesys.com^
