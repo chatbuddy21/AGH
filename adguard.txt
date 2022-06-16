@@ -16,6 +16,10 @@
 ||px-intl.ucweb.com^
 ||swallowcrockerybless.com^
 ||cawber.com^
+||vpnsafebrowsing.com^
+||sturea.com^
+||maghma.com^
+||impressions.onelink.me^
 
 !OISD
 ||app.mktg.genesys.com^
