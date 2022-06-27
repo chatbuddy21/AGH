@@ -20,6 +20,9 @@
 ||sturea.com^
 ||maghma.com^
 ||impressions.onelink.me^
+||.xyz^
+||abateall.com^
+||static.serve-servee.com^
 
 !OISD
 ||app.mktg.genesys.com^
