@@ -24,7 +24,7 @@
 ||excellojapan.xyz^
 ||naleapprength.xyz^
 ||abateall.com^
-||static.serve-servee.com^
+||serve-servee.com^
 
 !OISD
 ||app.mktg.genesys.com^
