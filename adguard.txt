@@ -25,6 +25,8 @@
 ||naleapprength.xyz^
 ||abateall.com^
 ||serve-servee.com^
+||ycreatmentto.xyz^
+||acidacorn.com^
 
 !OISD
 ||app.mktg.genesys.com^
