@@ -49,5 +49,4 @@
 ||xjp-jmacs.m.taobao.com^
 
 !Allow
-@@||ml.youngjoygame.com^
 @@||buffstream.live^
