@@ -27,6 +27,9 @@
 ||serve-servee.com^
 ||ycreatmentto.xyz^
 ||acidacorn.com^
+||alouktaboutric.xyz^
+||consensu.org^
+||media-lab.ai^
 
 !OISD
 ||app.mktg.genesys.com^
