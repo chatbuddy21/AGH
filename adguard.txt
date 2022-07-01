@@ -20,6 +20,10 @@
 ||sturea.com^
 ||maghma.com^
 ||impressions.onelink.me^
+||amazonaws.com^$domain=1337x.to|1337xx.to
+||1337x.*/images/x28.jpg
+||1337x.*/images/x2x8.jpg
+||1337x.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data:
 ||ationsuchasr.xyz^
 ||excellojapan.xyz^
 ||naleapprength.xyz^
@@ -30,6 +34,7 @@
 ||alouktaboutric.xyz^
 ||consensu.org^
 ||media-lab.ai^
+
 
 !OISD
 ||app.mktg.genesys.com^
