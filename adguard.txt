@@ -36,7 +36,8 @@
 ||media-lab.ai^
 ||usoasopersbe.xyz^
 ||mepositis.com^
-
+||messenger-notify.xyz^
+||shinebased.com^
 
 
 !OISD
