@@ -38,6 +38,9 @@
 ||mepositis.com^
 ||messenger-notify.xyz^
 ||shinebased.com^
+||ufundentofi.xyz^
+||d2er1uyk6qcknh.cloudfront.net^
+||blueomatic.com^
 
 
 !OISD
