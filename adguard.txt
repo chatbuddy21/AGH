@@ -48,7 +48,8 @@
 ||ghableleader.xyz^
 ||d31y1abh02y2oj.cloudfront.net^
 ||lx1.dyncdn.cc^
-
+||stemgthrop.one^
+||nedaugha.buzz^
 
 !OISD
 ||app.mktg.genesys.com^
