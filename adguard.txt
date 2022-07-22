@@ -34,6 +34,7 @@
 ||d2er1uyk6qcknh.cloudfront.net^
 ||d2r2yqcp8sshc6.cloudfront.net^
 ||d31y1abh02y2oj.cloudfront.net^
+||d3vw4uehoh23hx.cloudfront.net^
 ||blueomatic.com^
 ||ertyvaluation.lol^
 ||ismscold.buzz^
