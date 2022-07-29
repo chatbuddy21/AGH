@@ -41,14 +41,15 @@
 ||tytostaracar.lol^
 ||stemgthrop.one^
 ||nedaugha.buzz^
-#||ationsuchasr.xyz^
-#||excellojapan.xyz^
-#||naleapprength.xyz^
-#||ycreatmentto.xyz^
-#||alouktaboutric.xyz^
-#||messenger-notify.xyz^
-#||ufundentofi.xyz^
-#||ghableleader.xyz^
+
+!||ationsuchasr.xyz^
+!||excellojapan.xyz^
+!||naleapprength.xyz^
+!||ycreatmentto.xyz^
+!||alouktaboutric.xyz^
+!||messenger-notify.xyz^
+!||ufundentofi.xyz^
+!||ghableleader.xyz^
 
 !OISD
 ||app.mktg.genesys.com^
