@@ -36,6 +36,7 @@
 ||d31y1abh02y2oj.cloudfront.net^
 ||d3vw4uehoh23hx.cloudfront.net^
 ||dlooqrhebkjoh.cloudfront.net^
+||d204slsrhoah2f.cloudfront.net^
 ||blueomatic.com^
 ||ertyvaluation.lol^
 ||ismscold.buzz^
@@ -43,6 +44,8 @@
 ||stemgthrop.one^
 ||nedaugha.buzz^
 ||furiousfar.com^
+||drawtrick.com^
+||maticalaccurate.one^
 
 !||ationsuchasr.xyz^
 !||excellojapan.xyz^
