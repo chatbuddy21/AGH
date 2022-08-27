@@ -39,6 +39,7 @@
 ||d204slsrhoah2f.cloudfront.net^
 ||d3phzb7fk3uhin.cloudfront.net^
 ||dsag3w1du2cu2.cloudfront.net^
+||d1of5w8unlzqtg.cloudfront.net^
 
 ||articlepawn.com^
 ||zationserv.one^
@@ -53,10 +54,13 @@
 ||furiousfar.com^
 ||drawtrick.com^
 ||maticalaccurate.one^
+||atebilaterde.one^$
+||pectthatmye.shop^
+||shotcan.com^
 
 !||ationsuchasr.xyz^
 !||excellojapan.xyz^
-!||naleapprength.xyz^
+||naleapprength.xyz^
 !||ycreatmentto.xyz^
 !||alouktaboutric.xyz^
 !||messenger-notify.xyz^
