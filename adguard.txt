@@ -40,7 +40,9 @@
 ||d3phzb7fk3uhin.cloudfront.net^
 ||dsag3w1du2cu2.cloudfront.net^
 ||d1of5w8unlzqtg.cloudfront.net^
+||d18myvrsrzjrd7.cloudfront.net^
 
+||yresumeform.autos^
 ||articlepawn.com^
 ||zationserv.one^
 ||xml.serving-pass.com^
