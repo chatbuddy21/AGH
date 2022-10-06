@@ -48,12 +48,15 @@
 ||d3vw4uehoh23hx.cloudfront.net^
 ||dlooqrhebkjoh.cloudfront.net^
 ||dsag3w1du2cu2.cloudfront.net^
+||dy5t1b0a29j1v.cloudfront.net^
 
 ||acareewituhin.xyz^
 ||alouktaboutric.xyz^
+||avellingand.xyz^
 ||ationsuchasr.xyz^
 ||excellojapan.xyz^
 ||ghableleader.xyz^
+||gsinspiring.xyz^
 ||messenger-notify.xyz^
 ||naleapprength.xyz^
 ||ufundentofi.xyz^
@@ -79,11 +82,14 @@
 ||shotcan.com^
 ||stemgthrop.one^
 ||stunningruin.com^
+||strn.pl^
 ||syenitetatler.tech^
 ||tytostaracar.lol^
 ||ukectivetrai.one^
 ||untrendenam.com^
+||vatcalf.com^
 ||xml.serving-pass.com^
+||xml.serving-passthrough.com^
 ||yresumeform.autos^
 ||zationserv.one^
 
