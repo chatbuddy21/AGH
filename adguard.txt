@@ -110,7 +110,10 @@
 ||yresumeform.autos^
 ||ywasnothyc.buzz^
 ||zationserv.one^
-
+||kokanmokum.tech^
+||ewallowi.buzz^
+||koranicseimas.com^
+||fuffscreigh.website^
 
 !OISD
 ||app.mktg.genesys.com^
