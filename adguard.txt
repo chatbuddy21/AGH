@@ -7,6 +7,7 @@
 192.193.216.27$network
 192.193.18.130$network
 192.193.18.21$network
+||chelpe.com^
 ||ladsreds.com^
 ||check-users.com^
 ||cercube.com^
