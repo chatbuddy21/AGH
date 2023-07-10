@@ -119,14 +119,8 @@
 !OISD
 ||app.mktg.genesys.com^
 ||img04.en25.com^
-||sdkconfig.ad.intl.xiaomi.com^
-||mon.tiktokv.com^
-||log.tiktokv.com^
-||mon-va.tiktokv.com^
 ||usa.ime.cootek.com^
-||agafurretor.com^
-||adashx4sg.ut.taobao.com^
-||xjp-jmacs.m.taobao.com^
+
 
 !Allow
 @@||buffstream.live^
