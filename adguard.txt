@@ -33,6 +33,7 @@
 ||mepositis.com^
 ||shinebased.com^
 ||sessions.bugsnag.com^
+||startgaming.net^
 
 ||d18myvrsrzjrd7.cloudfront.net^
 ||d19gkl2iaav80x.cloudfront.net^
