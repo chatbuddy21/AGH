@@ -8,6 +8,7 @@
 192.193.18.130$network
 192.193.18.21$network
 
+@@||bigwarp.io^$important
 ||cijoorsairgusa.com^$important
 ||www.lfbfkkkqiza.com^$important
 ||www.bfvadionchrecq.com^$important
