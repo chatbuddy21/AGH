@@ -8,6 +8,9 @@
 192.193.18.130$network
 192.193.18.21$network
 
+||unagi-fe.amazon.com^
+||firebase-settings.crashlytics.com^
+||firebaselogging-pa.googleapis.com^
 @@||bigwarp.io^$important
 ||cijoorsairgusa.com^$important
 ||www.lfbfkkkqiza.com^$important
