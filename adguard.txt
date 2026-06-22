@@ -9,6 +9,8 @@
 192.193.18.21$network
 
 ||unagi-fe.amazon.com^
+||unagi-na.amazon.com^
+||ipv6.unagi-na.amazon.com^
 ||firebase-settings.crashlytics.com^
 ||firebaselogging-pa.googleapis.com^
 @@||bigwarp.io^$important
